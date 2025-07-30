@@ -46,26 +46,26 @@ public class Main {
        ex) 복수 짜리: myTestResult
        2. 특수문자 지양
          */
-        System.out.println(scoreEnglish);
-        //변수 - 값이 바뀔수 있음
-        scoreEnglish = 90;      // 재 대입할때는 자료형 명사 x
-        System.out.println(scoreEnglish);
+//        System.out.println(scoreEnglish);
+//        //변수 - 값이 바뀔수 있음
+//        scoreEnglish = 90;      // 재 대입할때는 자료형 명사 x
+//        System.out.println(scoreEnglish);
 
 
         //자료형 수업
         //1. 논리 자료형(boolean) 변수: 참 / 거짓 (ture /false)
         //자료형 변수명 = 데이터(값);         //변수의 선언 및 초기화
-        boolean checkFlag1 = false;
-        checkFlag1 = true;        //재대입
+//        boolean checkFlag1 = false;
+//        checkFlag1 = true;        //재대입
 
         //2.문자 자료형 변수 char
-        char name1 = '권';
-        char name2 = '장';
-        char name3 = '후';
-        System.out.println(name1 + name2 + name3); // 결과값
-        System.out.println('권'+'장'+'후');
-
-        System.out.println();
+//        char name1 = '권';
+//        char name2 = '장';
+//        char name3 = '후';
+//        System.out.println(name1 + name2 + name3); // 결과값
+//        System.out.println('권'+'장'+'후');
+//
+//        System.out.println();
 
         /*
         이상의 코드에서 알 수 있는 점은 컴퓨터가 생각보다 멍청하다.
@@ -85,26 +85,26 @@ public class Main {
         char : 문자
         String: 문자열
          */
-        char name = '김';
-        String name5 = "철수";
-
-        System.out.println(123+1);      //결과값: 124
-        System.out.println("123"+1);    //결과값: 1231
-        System.out.println(123+"1");    //결과값: 1231. 근데 얘기 예외적입니다.
+//        char name = '김';
+//        String name5 = "철수";
+//
+//        System.out.println(123+1);      //결과값: 124
+//        System.out.println("123"+1);    //결과값: 1231
+//        System.out.println(123+"1");    //결과값: 1231. 근데 얘기 예외적입니다.
 
 //        3. 정수 자료형 변수 (int)
-        int width1 = 100;
-        int width2 = 200;
-        System.out.println(width1 + width2);
-        String width3 = "300";
-        String width4 = "400";
-        System.out.println(width3 + width4);    //300400
+//        int width1 = 100;
+//        int width2 = 200;
+//        System.out.println(width1 + width2);
+//        String width3 = "300";
+//        String width4 = "400";
+//        System.out.println(width3 + width4);    //300400
         //문자열은 연산이 아니라 "나열" 됩니다.
 
         //문자열은 '순서'가 중요합니다
-        Integer width5 = 500;
-        Integer width6 = 600;
-        System.out.println(width5 + width6); // 근데 대문자로 시작하는 Integer가 있긴 합니다.
+//        Integer width5 = 500;
+//        Integer width6 = 600;
+//        System.out.println(width5 + width6); // 근데 대문자로 시작하는 Integer가 있긴 합니다.
 
         //4. 실수 자료형 변수 double
         double pi = 3.1415926;
@@ -126,8 +126,8 @@ public class Main {
 
         //변수 선언
         String name10;
-        String major;
-        String mbti;
+        String major10;
+        String mbti10;
         int age10;
 
 
