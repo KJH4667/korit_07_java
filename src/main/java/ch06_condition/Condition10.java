@@ -92,7 +92,7 @@ public class Condition10 {
 //                break;
 //        }
 
-        Scanner scanner = new Scanner(System.in);
+//        Scanner scanner = new Scanner(System.in);
         int selectedNum;
 
         System.out.println("[ 메뉴 선택 ]");
@@ -104,22 +104,22 @@ public class Condition10 {
         System.out.println("6. 쉰다");
         System.out.println("메뉴를 선택하세요 >>>");
 
-        String selectedChar = scanner.nextInt();
-        switch (selectedChar) {
-            case "a":
-                System.out.println("메뉴 1번을 선택하였습ㄴ디ㅏ");
-            case "b":
-                System.out.println("메뉴 2번을 선택하였습ㄴ디ㅏ");
-            case "c":
-                System.out.println("메뉴 3번을 선택하였습ㄴ디ㅏ");
-            case "d":
-                System.out.println("메뉴 4번을 선택하였습ㄴ디ㅏ");
-            case "e":
-                System.out.println("메뉴 5번을 선택하였습ㄴ디ㅏ");
-            case "f":
-                System.out.println("메뉴 6번을 선택하였습ㄴ디ㅏ");
+//        String selectedChar = scanner.nextInt();
+//        switch (selectedChar) {
+//            case "a":
+//                System.out.println("메뉴 1번을 선택하였습ㄴ디ㅏ");
+//            case "b":
+//                System.out.println("메뉴 2번을 선택하였습ㄴ디ㅏ");
+//            case "c":
+//                System.out.println("메뉴 3번을 선택하였습ㄴ디ㅏ");
+//            case "d":
+//                System.out.println("메뉴 4번을 선택하였습ㄴ디ㅏ");
+//            case "e":
+//                System.out.println("메뉴 5번을 선택하였습ㄴ디ㅏ");
+//            case "f":
+//                System.out.println("메뉴 6번을 선택하였습ㄴ디ㅏ");
         }
 
     }
-}
+
 
