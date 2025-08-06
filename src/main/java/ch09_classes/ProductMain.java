@@ -35,7 +35,7 @@ public class ProductMain {
     public static void main(String[] args) {
         // 객체 생성 방법 클래스명 객체명 = new 생성자;
         // 기본 생성자를 통한 생성
-        Product product1 = new Product();
+        Product product1 = new Product("전자 제품", "가전제품");
         // 매개변수 생성자를 통한 생성(RequiredArgsConstructor) 2 번
         Product product2 = new Product(987654);
         Product product3 = new Product("USB-C 케이블");

@@ -36,7 +36,7 @@ public class Condition01 {
             System.out.print("숫자를 입력하세요>>>");
             int num2 = scanner.nextInt(); // 그러면 실행하기 전까지 num2의 값을 모르겠네요
 
-            if (num2 > 0) {
+            if (num2 > 0 ) {
                 System.out.println("num2는 양수입니다.");
             }
             System.out.println("프로그램 종료");

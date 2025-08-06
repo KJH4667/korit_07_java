@@ -51,7 +51,7 @@ public class Product {
     // 가이드에 따른 생성자 생성
     // alt + ins
 
-    public Product() {
+    public Product(String 전자_제품, String 가전제품) {
     }
 
     public Product(int productNum) {
