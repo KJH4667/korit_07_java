@@ -1,4 +1,6 @@
 package ch14_abstraction.Interface;
 
-public class Down {
+public interface Down {
+    void onDown();
+
 }
