@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50617b8f-4964-45b3-bf7e-da0be514a5a1" name="변경" comment="" />
+    <list default="true" id="50617b8f-4964-45b3-bf7e-da0be514a5a1" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/learning_log/20250811.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/20250812.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/ObjectTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/TeacherMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/teacher/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/teacher/TeacherMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch17_bean/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch18_static/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch18_static/FactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch18_static/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch18_static/ProductView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch18_static/ProductViewMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch18_static/ProtectView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch18_static/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch18_static/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/products/ProtectView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/AirConditioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/AirConditioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/CentralControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/CentralControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/CentralControlMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/CentralControlMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/Speaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/Speaker.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +53,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.0/d533ff2c286eaf963566f92baf5f8a06628d2609/junit-platform-commons-1.10.0.jar!/org/junit/platform/commons/annotation/Testable.class" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -41,28 +71,15 @@
   "keyToString": {
     "Gradle.korit_07_java [:ch15_casting.animals.Main.main()].executor": "Run",
     "Gradle.korit_07_java [:ch15_casting.centralcontrol.CentralControlMain.main()].executor": "Run",
-    "Gradle.소스 다운로드.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Gradle.korit_07_java [:ch18_static.PersonMain.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "last_opened_file_path": "C:/fKJH/korit_07_java",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/fKJH(Java)/korit_07_java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="korit_07_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="korit_07_java" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
       <changelist id="50617b8f-4964-45b3-bf7e-da0be514a5a1" name="변경" comment="" />
@@ -72,5 +89,16 @@
       <updated>1754621061361</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch16_objects/TeacherMain.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
