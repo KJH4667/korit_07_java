@@ -6,6 +6,11 @@ public class Teacher {
     private String name;
     private String school;
 
+    public Teacher(String name, String school) {
+        this.name = name;
+        this.school = school;
+    }
+
     // AllArgsConstructor 정의하세요
 
     // Getter / Setter 정의하세요
@@ -32,6 +37,11 @@ public class Teacher {
         this.school = school;
     }
 
+
+    @Override
+    public String toString() {
+        return name + "선생님의 근무지는" +school + "입니다.";
+    }
 
 
     @Override

@@ -4,9 +4,9 @@ public class ObjectTestMain {
     public static void main(String[] args) {
         //객체생성
         ObjectTest objectTest1 = new ObjectTest();
-        ObjectTest1.setName("안근수");
-        ObjectTest1.setAddress("부산광역시 연제구");
-        ObjectTest1.showInfo();
+        objectTest1.setName("안근수");
+        objectTest1.setAddress("부산광역시 연제구");
+        objectTest1.showInfo();
 
         System.out.println(objectTest1);
 
@@ -29,7 +29,7 @@ public class ObjectTestMain {
         boolean result5 = strArray[0] == example2;
         System.out.println(result5);        //false
 
-        boolean result6 = strArray[0] == example2(example2);
+        boolean result6 = strArray[0].equals(example2);
         System.out.println(result6);        // true
     }
 }

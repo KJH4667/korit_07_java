@@ -12,6 +12,7 @@ public class Computer implements Power {
     }
 
     public void computer(){
+        System.out.println("컴퓨터를 사용합니다.");
 
     }
 }

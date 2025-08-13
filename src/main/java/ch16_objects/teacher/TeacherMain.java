@@ -1,13 +1,12 @@
 package ch16_objects.teacher;
 
-import ch16_objects.Teacher;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
 public class TeacherMain {
     public static void main(String[] args) {
-        ch16_objects.Teacher teacher1 = new ch16_objects.Teacher("안근수",코리아타운);
-        ch16_objects.Teacher teacher2 = new Teacher("안근수",코리아타운);
+        ch16_objects.Teacher teacher1 = new ch16_objects.Teacher("안근수","코리아타운");
+        ch16_objects.Teacher teacher2 = new ch16_objects.Teacher("안근수","코리아타운");
 
         boolean result1 = teacher1.equals(teacher2);
         System.out.println(result1);        //true
@@ -31,9 +30,9 @@ public class TeacherMain {
 
         //동일한 방식으로 향상된 for문으로 작성하시오.
         for (Field field : fields) {
-            System.out.println("필드명 출력 : " + fields.getName());
-            System.out.println("패키지명 + 클래스명 출력 : " + fields.getType());
-            System.out.println("클래스명 출력 : " + fields.getType().getSimpleName());
+            System.out.println("필드명 출력 : " + field.getName());
+            System.out.println("패키지명 + 클래스명 출력 : " + field.getType());
+            System.out.println("클래스명 출력 : " + field.getType().getSimpleName());
         }
 
         Method[] methods = tClass.getDeclaredMethods();

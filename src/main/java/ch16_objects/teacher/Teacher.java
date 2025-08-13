@@ -37,7 +37,7 @@ public class Teacher {
     @Override
     public boolean equals(Object o) {
         if (o == null || getClass() != o.getClass()) return false;
-        ch16_objects.Teacher teacher = (ch16_objects.Teacher) o;
+        Teacher teacher = (Teacher) o;
         return Objects.equals(name, teacher.name) && Objects.equals(school, teacher.school);
     }
 

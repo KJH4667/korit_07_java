@@ -22,6 +22,9 @@ public class CentralControlMain {
         centralControl.addDevice(computer1);    // 여기서 (암시적) 업캐스팅이 이루어졌습니다.
         centralControl.addDevice(airConditioner1);
         centralControl.addDevice(speaker1);
+        centralControl.addDevice(speaker1);
+        centralControl.addDevice(speaker1);
+        centralControl.addDevice(speaker1);
 
 //        int[] intArray = new int[3];
 //        // 0번지에 3 넣으세요
@@ -34,10 +37,13 @@ public class CentralControlMain {
          */
         Mouse mouse1 = new Mouse();
         LED led1 = new LED();
+        Printer printer1 = new Printer();
         centralControl.addDevice(mouse1);
         centralControl.addDevice(led1);
+        centralControl.addDevice(printer1);
 
         centralControl.powerOn();
+        centralControl.powerOff();
 
 
         System.out.println("-----continue-------");
@@ -50,13 +56,14 @@ public class CentralControlMain {
                 System.out.println(i);
             }
         }
+        System.out.println("---");
 
 
         for (int i = 0; i < 10; i++) {
             if ((i + 1) % 2 != 1) {
                 continue;        // continue : 해당 반복을 종료하고 다음 반복을 실행
             }
-            System.out.println();
+            System.out.println(i);
         }
         centralControl.showInfo();
 

@@ -25,7 +25,7 @@ public class ObjectTest {
         return name;
     }
 
-    public void setAddress() {
+    public void setAddress(String 부산광역시_연제구) {
         this.address = address;
     }
 
@@ -46,5 +46,8 @@ public class ObjectTest {
     @Override
     public String toString() {
         return super.toString();
+    }
+
+    public void setName(String 안근수) {
     }
 }
