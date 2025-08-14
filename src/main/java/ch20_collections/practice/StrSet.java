@@ -1,4 +1,4 @@
-package ch20_collections;
+package ch20_collections.practice;
 /*
     List는 순서가 있고 중복을 허용하는 방면, Set의 경우 순서는 없고 중복은 허용하지 않기 때문에 List -> Set / 혹은 Set -> List로의 형변환이 중요합니다.
     예를들어 List로 전체 설문을 받고, Set을 통해 중복을 제거하여 후보군만 남기는 등의 형태로 많이 사용됩니다. 또한 Set으로 중복을 제거한 후에 다시 List로 돌려서 .get(인덱스넘버)

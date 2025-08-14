@@ -1,4 +1,4 @@
-package ch20_collections;
+package ch20_collections.practice;
 
 public class Dowhile {
     public static void main(String[] args) {

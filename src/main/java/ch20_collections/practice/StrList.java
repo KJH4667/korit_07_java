@@ -1,4 +1,4 @@
-package ch20_collections;
+package ch20_collections.practice;
 
 import java.util.*;
 

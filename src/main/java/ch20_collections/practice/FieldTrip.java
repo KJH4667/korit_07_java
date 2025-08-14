@@ -1,10 +1,10 @@
-package ch20_collections;
+package ch20_collections.practice;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class FieldTrip {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public static <set> void main(String[] args) {
+//        Scanner scanner = new Scanner(System.in);
         /*
             1. 학생의 수를 입력 받아 해당 횟수만큼 반복문을 들일것.
             2. 1번~5번 학새의 응답을 fieldTrips List에 지정할것
@@ -31,5 +31,24 @@ public class FieldTrip {
             민속촌
             입니다.
          */
+        // 사용할 클래스 선언
+        Scanner scanner = new Scanner(System.in);
+        //사용할 변수 선언
+        List<String> fieldTrips = new ArrayList<>();
+        List<String> finalfieldTrips = new ArrayList<>();
+        Set<String> fieldsTripsSet = new HashSet<>();
+        int student = 0;
+        System.out.print("몇명의 학생이 수학 여행지를 입력하시겠습니까?>>>>");
+        student = scanner.nextInt();
+        scanner.nextLine();
+        for( int i = 0 ; i < student ; i++ ) {
+            System.out.print((i+1) + "번 학생의 수학 여행지를 입력하세요. >>>");
+            //list에서 element를 추가하는 메서드
+            String fieldTrip = scanner.nextLine();
+            fieldTrips.add(fieldTrip);
+        }
+//        System.out.println(fieldTrip);
     }
+
+
 }

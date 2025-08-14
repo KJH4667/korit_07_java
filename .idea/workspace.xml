@@ -5,36 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50617b8f-4964-45b3-bf7e-da0be514a5a1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_log/20250813.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch19_generic/DataController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch19_generic/ResponseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/Dowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/FieldTrip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/StrList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/StrSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BmiCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wildcard/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wildcard/AnimalData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wildcard/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wildcard/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wildcard/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wildcard/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/20250814.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/BookMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/StrMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch21_json/JSON1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch21_json/JSON2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/CentralControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/CentralControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/CentralControlMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/CentralControlMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch15_casting/centralcontrol/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch16_objects/ObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/ObjectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch16_objects/ObjectTestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/ObjectTestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch16_objects/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch16_objects/TeacherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/TeacherMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch16_objects/teacher/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/teacher/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch16_objects/teacher/TeacherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch16_objects/teacher/TeacherMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch18_static/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch18_static/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch18_static/ProductViewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch18_static/ProductViewMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch18_static/ProtectView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch18_static/ProtectView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch20_collections/Dowhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/Dowhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch20_collections/FieldTrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/FieldTrip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch20_collections/StrList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/StrList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch20_collections/StrSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/StrSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +61,12 @@
     "Gradle.korit_07_java [:ch19_generic.DataController.main()].executor": "Run",
     "Gradle.korit_07_java [:ch20_collections.Dowhile.main()].executor": "Run",
     "Gradle.korit_07_java [:ch20_collections.StrList.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch20_collections.StrMap.main()].executor": "Run",
     "Gradle.korit_07_java [:ch20_collections.StrSet.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch20_collections.practice.BookMap.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch20_collections.practice.Meeting.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch21_json.JSON1.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch21_json.JSON2.main()].executor": "Run",
     "Gradle.korit_07_java [:org.example.BmiCalc.main()].executor": "Run",
     "Gradle.korit_07_java [:wildcard.Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
