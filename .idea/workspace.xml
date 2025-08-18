@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50617b8f-4964-45b3-bf7e-da0be514a5a1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_log/20250814.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/BookMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/Meeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/StrMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch21_json/JSON1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch21_json/JSON2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/20250818.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch22_exception/AgeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch22_exception/Exception01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch22_exception/Exception02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch22_exception/InvalidAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch23_lambda/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch23_lambda/CalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch23_lambda/ForEachMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch23_lambda/LambdaExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch20_collections/Dowhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/Dowhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch20_collections/FieldTrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/FieldTrip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch20_collections/StrList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/StrList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch20_collections/StrSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch20_collections/practice/StrSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,9 @@
     "Gradle.korit_07_java [:ch20_collections.practice.Meeting.main()].executor": "Run",
     "Gradle.korit_07_java [:ch21_json.JSON1.main()].executor": "Run",
     "Gradle.korit_07_java [:ch21_json.JSON2.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch22_exception.Exception01.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch22_exception.Exception02.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch23_lambda.LambdaExample.main()].executor": "Run",
     "Gradle.korit_07_java [:org.example.BmiCalc.main()].executor": "Run",
     "Gradle.korit_07_java [:wildcard.Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -115,6 +116,10 @@
           <line>17</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
